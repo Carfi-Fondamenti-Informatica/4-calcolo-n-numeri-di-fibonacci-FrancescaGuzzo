@@ -11,7 +11,7 @@ int main() {
             F= p+s;
             s=p;
             p=F;
-            cout << F << endl;
+            cout << s << endl;
         }
     } else {
         cout << "errore";
